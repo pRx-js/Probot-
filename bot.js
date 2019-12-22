@@ -3122,4 +3122,4 @@ By Ҝ€₥σ
 
 
 //MHSTR END NOW THIS IS END
-client.login(process.env.BOT_TOKEN);
+client.login("NjQ1MjE3MjM4Mjc3OTQ3Mzky.Xf9SXA.9GFA-0iaGC2cm-BKSgYVUU_9phE");
