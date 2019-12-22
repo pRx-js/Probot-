@@ -58,6 +58,9 @@
       "isgd": "1.1.3",
       "zalgolize": "1.2.4"
     },
+    "engines": {
+    "node": "10.x"
+  },
     "devDependencies": {},
     "author": "",
     "license": "ISC"
